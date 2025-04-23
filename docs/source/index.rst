@@ -14,4 +14,6 @@ Contents
 
 .. toctree::
 
+   usage
+   api
    routing
